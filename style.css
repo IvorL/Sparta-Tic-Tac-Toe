@@ -1,0 +1,32 @@
+.container {
+  height: 310px;
+  width: 310px;
+  border: 1px solid black;
+}
+
+.box {
+  height: 100px;
+  width: 100px;
+  background-color: lightblue;
+  display: inline-block;
+}
+
+.dot {
+  width: 50%;
+  height: 50%;
+  background-color: black;
+  border-radius: 100%;
+  margin: 20px auto;
+}
+
+.square {
+  width: 50%;
+  height: 50%;
+  background-color: black;
+  margin: 20px auto;
+}
+
+main button {
+  border: 0;
+  padding: 0;
+}
